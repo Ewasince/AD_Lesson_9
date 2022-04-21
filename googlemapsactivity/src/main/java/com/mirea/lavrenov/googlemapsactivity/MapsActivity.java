@@ -109,7 +109,7 @@ public class MapsActivity extends FragmentActivity
 
     private void setUpMap() {
         // выбираем один вариант
-        mMap.setMapType(GoogleMap.MAP_TYPE_NORMAL);
+//        mMap.setMapType(GoogleMap.MAP_TYPE_NORMAL);
         LatLng mirea = new LatLng(55.670005, 37.479894);
         CameraPosition cameraPosition = new CameraPosition.Builder().target(
                 mirea).zoom(12).build();

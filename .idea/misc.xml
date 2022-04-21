@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ewas/AndroidStudioProjects/Lesson9/googlemapsactivity/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/ewas/AndroidStudioProjects/Lesson9/googlemapsactivity/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/ewas/AndroidStudioProjects/Lesson9/googlemapsactivity/src/main/res/layout/activity_maps.xml" value="0.17401215805471124" />
+        <entry key="..\:/Users/ewas/AndroidStudioProjects/Lesson9/yandexdriver/src/main/res/layout/activity_main.xml" value="0.18135764944275581" />
+        <entry key="..\:/Users/ewas/AndroidStudioProjects/Lesson9/yandexmaps/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/ewas/AndroidStudioProjects/Lesson92/yandexmaps/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
       </map>
     </option>
